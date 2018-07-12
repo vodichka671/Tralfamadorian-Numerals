@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tralfamadorian numerals:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tralfamadorian_numerals_jar</output-path>
+    <root id="archive" name="Tralfamadorian numerals.jar">
+      <element id="module-output" name="Tralfamadorian numerals" />
+    </root>
+  </artifact>
+</component>
